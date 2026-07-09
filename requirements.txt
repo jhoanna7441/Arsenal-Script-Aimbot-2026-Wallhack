@@ -1,0 +1,6 @@
+pygetwindow
+pywin32
+pynput
+click
+tqdm
+numpy
